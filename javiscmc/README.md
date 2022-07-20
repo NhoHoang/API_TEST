@@ -43,8 +43,6 @@ docker-compose up -d
 - Run
     - mvn clean install
    
-- Check
-    - localhost:8881/api/v1/user -- expect 0 records returned
 #### Notification service
 - Run
     - mvn clean install
