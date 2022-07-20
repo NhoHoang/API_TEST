@@ -36,15 +36,15 @@ docker-compose up -d
     - mvn clean install
   
 #### Gateway Service
-- Run
+- Build/Run
   - mvn clean install
   
 #### User Service
-- Run
+- Build/Run
     - mvn clean install
    
 #### Notification service
-- Run
+- Build/Run
     - mvn clean install
 
 **Run:**
